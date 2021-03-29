@@ -2,6 +2,9 @@
 
 var firstName = prompt("enter your name ");
 alert("Welcome to our restaurant " + firstName);
+
+function favfoodf()
+{
 var favFood = prompt("enter your favorite food","burger, shawerma");
 
 while (favFood !== "burger" && favFood !== "shawerma")
@@ -32,4 +35,11 @@ for(var i=1; i<=foodNum;i++)
 }
 console.log(image);
 document.write(image);
+}
+
+favfoodf();
+
+
+
+
 
