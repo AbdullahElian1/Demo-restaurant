@@ -73,6 +73,9 @@ header nav ul li {
     height: 400px;
     width: 400px;
 }
+.container p {
+    color: black;
+}
 
 footer{
     height: 100px;
