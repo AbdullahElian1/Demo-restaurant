@@ -1,0 +1,106 @@
+body{
+    background-color: #dbf6e9;
+    margin: 0;
+}
+
+header {
+    background-color:#865858 ;
+    color: white;
+    height: 120px;
+}
+header nav{
+    float: right;
+    width: 25%;
+    margin-top: 20px;
+
+}
+header h1{
+    float: left;
+    margin: 30px 0 0 1% ;
+
+}
+
+
+header nav ul li {
+    display: inline-block;
+    margin: 30 px 20px 30px 20px;
+
+}
+ header nav ul li a{
+     color: white;
+     text-decoration: none;
+     margin-right:6px ;
+     font-size: 20px;
+     
+ }
+
+ a:hover {
+    background-color: rgb(61, 113, 138);
+  }
+
+
+ #first {
+     height: 400px;
+     width:70% ;
+     background-color:#edffec ;
+     text-align: center;
+     margin: 40px 0 30px 15%; ;
+     
+     font-weight: bold;
+     
+
+ }
+
+ #first p{
+    font-weight: bold;
+    font-size: large;
+ }
+
+ #second{
+    background-color:#edffec ;
+    color: rgba(235, 223, 223, 0.917);
+}
+.container {
+    display: inline-block;
+    text-align: center;
+    height: 450px;
+    width: 40%;
+    margin-left:100px;
+
+}
+
+.container img {
+    height: 400px;
+    width: 400px;
+}
+
+footer{
+    height: 100px;
+    background-color: #865858;
+    color: white;
+}
+
+footer p{
+    
+    text-align: center;
+    font-size: 30px;
+    vertical-align: middle;
+    line-height: 100px;
+
+
+    
+    
+    
+}
+
+footer h4 a{
+    
+    
+    font-size: 30px;
+    vertical-align: middle;
+    line-height: 100px;
+    color: black;
+    text-align: center;
+    margin-left: 45%;
+}
+
